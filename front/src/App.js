@@ -20,7 +20,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={movie.poster_path} alt={movie.title} style={{width: "350px"}}/>
+        <img src={movie.poster_path} alt={movie.title} style={{width: "350px"}} className="movie-poster"/>
         <h2>{movie.title}</h2>
         <p>{movie.overview}</p>
       </header>

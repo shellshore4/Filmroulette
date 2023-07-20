@@ -14,7 +14,7 @@
 }
 
 .movie-poster {
-  border-radius: 50px;
+  border-radius: 20%;
 }
 
 .App h2 {
@@ -28,7 +28,7 @@
   50% {
     transform: scale(1.05);
   }
-  100% {
+  120% {
     transform: scale(1);
   }
 }
