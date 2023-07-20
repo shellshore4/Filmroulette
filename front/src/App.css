@@ -13,6 +13,10 @@
   color: white;
 }
 
+.movie-poster {
+  border-radius: 20%;
+}
+
 .App h2 {
   animation: pulse 2s infinite;
 }
