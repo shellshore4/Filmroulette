@@ -6,7 +6,7 @@ Bienvenue dans le projet Film Roulette. Cette application Web sélectionne aléa
 
 Ce projet a été créé dans le but d'apprendre à coder et à déployer des applications Web. Il utilise React pour le front-end, qui est déployé sur Vercel, et une fonction AWS Lambda en Python pour le back-end.
 
-## Comment ça marche
+## Fonctionnement
 
 Lorsque vous visitez l'application Web, elle fait une demande à l'API backend, qui sélectionne alors un film au hasard parmi les plus notés sur TMDb. L'application Web affiche ensuite les informations de ce film, y compris le titre, le synopsis et l'affiche du film.
 
