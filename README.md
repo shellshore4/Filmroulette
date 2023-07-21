@@ -17,3 +17,5 @@ Ce projet est principalement un exercice d'apprentissage et n'est pas destiné �
 Lien vers le site web: https://filmroulette.cc
 
 ## Démo
+
+[![SWJRa.gif](https://s11.gifyu.com/images/SWJRa.gif)](https://gifyu.com/image/SWJRa)
