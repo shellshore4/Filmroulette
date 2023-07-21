@@ -18,4 +18,4 @@ Lien vers le site web: https://filmroulette.cc
 
 ## Démo
 
-![Demo](https://s11.gifyu.com/images/SWJRa.gif)
+![Demo](https://github.com/shellshore4/filmroulette/blob/master/Animation.gif)
